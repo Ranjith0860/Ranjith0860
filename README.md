@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm an aspiring **Software Engineer** passionate a
 - Student or beginner-friendly tech initiatives
 
 ## 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjith0860)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjith-kumar-thangallapally/)  
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjithkumar76748@gmail.com)
 
 
